@@ -5,7 +5,6 @@ print("Python:Hey there 👋, what's your name")
 name = input("User: ")
 
 
-
 print(f"Python: Welcome to {name}'s calculator, what operation do you want to do")
 
 operation = input("User: ")
