@@ -1,3 +1,11 @@
+'''"Statements & Expressions Workshop"
+Create a program that demonstrates understanding of statements and expressions:
+
+Write a temperature converter (C to F and F to C)
+Include compound expressions with multiple operators
+Use assignment statements with operators (+=, -=, etc.)
+Implement input statements and type conversion'''
+
 # Temperature Converter Program
 def convert_temperature():
     print("Welcome to the Temperature Converter!")
