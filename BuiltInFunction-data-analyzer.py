@@ -8,6 +8,8 @@
     -> The number of values that are above the average
     -> A sorted version of the original list (using the appropriate built-in function) '''
 
+# in console enter output datas like 10 20 30 40 50
+
 def data_analyzer():
     # Get input from the user
     values = input("Enter a list of numeric values separated by spaces: ")
