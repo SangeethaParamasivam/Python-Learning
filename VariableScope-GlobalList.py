@@ -3,7 +3,7 @@
 2. Write a program that uses a built-in function and also defines a variable with the same name.
 3. Modify a global list inside a function using the global keyword.
 
-2. Write a program that uses a built-in function and also defines a variable with the same name.'''
+3. Modify a global list inside a function using the global keyword.'''
 g_list = [10, 20, 30]
 
 def g_list_mod():
