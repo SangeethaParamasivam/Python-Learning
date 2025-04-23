@@ -24,7 +24,7 @@ class bankAccount:
             return print("Acc.Name\t:\t", self.name, "\nAcc.Number\t:\t", self.acNum), print(f"Acc.Balance\t:\t {balance}")
 
 myAccount = bankAccount()
-myAccount.accountHolder("Abisheak", "1234567890")
+myAccount.accountHolder("Sangeetha", "1234567890")
 
 activity = input("What do you want to do with your account? : ")
 act = activity.lower()
